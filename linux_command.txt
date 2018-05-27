@@ -1,4 +1,5 @@
 awk
-sed
+sed stream editor
+
 ls
 grep
